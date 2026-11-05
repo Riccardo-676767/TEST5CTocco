@@ -2,4 +2,4 @@
 This is a description
 Sviluppatore A = pizza
 Sviluppatore B = bevande
-Sviluppatore C = alcol
+Sviluppatore C = alcool
